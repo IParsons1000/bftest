@@ -1,0 +1,16 @@
+[Credit: https://en.wikipedia.org/wiki/Brainfuck per CC BY-SA 4.0]
+
+++
+> +++++
+
+[
+< +
+> -
+]
+
+++++ ++++
+[
+< +++ +++
+> -
+]
+< .

@@ -1,0 +1,6 @@
+bftest - a brainf*ck test suite
+
+These were originally collected for [tinybf](https://github.com/IParsons1000/tinybf), but they do a pretty good
+job of testing for standards compliance.
+
+See `CREDITS' for credits.
